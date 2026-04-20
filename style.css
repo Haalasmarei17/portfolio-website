@@ -40,6 +40,9 @@ h1, h2, h3 { font-family: 'Cormorant Garamond', Georgia, serif; }
   flex-direction: column;
   gap: 18px;
 }
+.sidebar-profile {
+  gap: 0;
+}
 
 .avatar,
 .avatar-ring {
